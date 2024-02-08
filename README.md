@@ -11,5 +11,4 @@
         - FastAPI,
         - Docker,
         - Git
-    📚 Atualmente estou estudando o curso da Full-Cycle, fazendo minha graduação em Sistema de Informação pelo IFMA
-    e me especializando na linguagem Python e nos frameworks Django Rest e FastAPI.
+    📚 Estudo: https://brief-yew-16c.notion.site/76c7b1e6023c41ebb19d175f87524b2c?v=d14eada137ff45dba3496a47d78cdabf
