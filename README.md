@@ -1,13 +1,14 @@
 
 
-    👋 Olá, meu nome é Pedro Guilherme
-    👀 Eu sou interessado em impressoras 3D, automação de tarefas,
-       captura de dados (Web Scraping), desenvolvimento e modelagem de APIs com bancos relacionais.
+    👋 Olá, meu nome é Pedro Guilherme.
+     🖥 Backend e automação.
     🌱 Tecnologias já usadas nos projetos disponibilizados: 
-        Django Rest FrameWork,
-        Django Web FrameWork,
-        Spring Boot (Java),
-        C (MPI e OMP),
-        Selenium (Web Scraping)
-        OpenCV
-    📚 Atualmente estou estudando o curso da Full-Cycle e me especializando na linguagem Python e nos frameworks Django Rest e FastAPI.
+        - Django Rest e Web FrameWork,
+        - Spring Boot (Java),
+        - C (MPI e OMP),
+        - Selenium (Web Scraping)
+        - OpenCV,
+        - FastAPI,
+        - Docker,
+        - Git
+    📚 Atualmente estou estudando o curso da Full-Cycle, fazendo minha graduação em Sistema de Informação pelo IFMA e me especializando na linguagem Python e nos frameworks Django Rest e FastAPI.
