@@ -10,4 +10,6 @@
         - OpenCV,
         - FastAPI,
         - Docker,
-        - Git
+        - Git,
+        - Pandas e Openpyxl
+        - CI
