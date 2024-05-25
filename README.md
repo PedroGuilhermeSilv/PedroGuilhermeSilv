@@ -13,3 +13,4 @@
         - Git,
         - Pandas e Openpyxl
         - CI
+        - Pytest
