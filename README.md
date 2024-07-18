@@ -14,3 +14,5 @@
         - Pandas e Openpyxl
         - CI
         - Pytest
+        - Nextjs
+        - AWS
