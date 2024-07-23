@@ -8,7 +8,8 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PedroGuilhermeSilv&layout=donut-vertical)](https://github.com/anuraghazra/github-readme-stats)
 <hr>
 
-### Tecnologias que eu uso no meu dia
+### Tecnologias que:
+### Uso no meu dia:
 
 <div style="display: inline_block">
     <br/>
@@ -23,9 +24,9 @@
 </div>
 <br/>
 
-<hr>
 
-### Tecnologias que já tive experiência
+
+### Já tive experiência:
 <div style="display: inline_block">
     <br/>
     <img aling="center" alt="html5" src="https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white">
@@ -33,9 +34,9 @@
     <img aling="center" alt="html5" src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white">
 </div>
 <br/>
-<hr>
 
-### Tecnologias que estou aprendendo
+
+### Estou aprendendo:
 
 <div style="display: inline_block">
     <br/>
